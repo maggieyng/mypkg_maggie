@@ -23,11 +23,12 @@ knitr::opts_chunk$set(
 
 # ANDREY IS A LOSER // The goal of mypkgr is to ... 
 
+
 ## Installation
 
 You can install the development version of mypkgr from [GitHub](https://github.com/) with:
 
-``` r
+``` {r}
 # install.packages("pak")
 pak::pak("maggieyng/mypkg_maggie")
 ```
