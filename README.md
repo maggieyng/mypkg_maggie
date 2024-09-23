@@ -6,9 +6,10 @@
 <!-- badges: start -->
 
 [![R-CMD-check](https://github.com/maggieyng/mypkg_maggie/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/maggieyng/mypkg_maggie/actions/workflows/R-CMD-check.yaml)
+
 <!-- badges: end -->
 
-The goal of mypkgr is to …
+# ANDREY IS A LOSER // The goal of mypkgr is to …
 
 ## Installation
 
