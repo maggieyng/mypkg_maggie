@@ -8,7 +8,7 @@
 [![R-CMD-check](https://github.com/maggieyng/mypkg_maggie/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/maggieyng/mypkg_maggie/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
-The goal of mypkgr is to …
+The goal of mypkgr is to find the log of something
 
 ## Installation
 
@@ -18,6 +18,9 @@ You can install the development version of mypkgr from
 ``` r
 # install.packages("pak")
 pak::pak("maggieyng/mypkg_maggie")
+#> 
+#> ℹ No downloads are needed
+#> ✔ 1 pkg: kept 1 [2.6s]
 ```
 
 ## Example
