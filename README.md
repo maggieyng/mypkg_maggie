@@ -6,9 +6,10 @@
 <!-- badges: start -->
 
 [![R-CMD-check](https://github.com/maggieyng/mypkg_maggie/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/maggieyng/mypkg_maggie/actions/workflows/R-CMD-check.yaml)
+
 <!-- badges: end -->
 
-The goal of mypkgr is to find the log of something
+# ANDREY IS A LOSER // The goal of mypkgr is to …
 
 ## Installation
 
@@ -18,9 +19,20 @@ You can install the development version of mypkgr from
 ``` r
 # install.packages("pak")
 pak::pak("maggieyng/mypkg_maggie")
+#> ! Using bundled GitHub PAT. Please add your own PAT using `gitcreds::gitcreds_set()`.
 #> 
-#> ℹ No downloads are needed
-#> ✔ 1 pkg: kept 1 [2.6s]
+#> → Will update 1 package.
+#> → Will download 1 package with unknown size.
+#> + mypkgr 0.0.0.9000 → 0.0.0.9000 [bld][cmp][dl] (GitHub: fa69535)
+#> 
+#> ℹ Getting 1 pkg with unknown size
+#> ✔ Got mypkgr 0.0.0.9000 (source) (24.86 kB)
+#> ℹ Packaging mypkgr 0.0.0.9000
+#> ✔ Packaged mypkgr 0.0.0.9000 (207ms)
+#> ℹ Building mypkgr 0.0.0.9000
+#> ✔ Built mypkgr 0.0.0.9000 (522ms)
+#> ✔ Installed mypkgr 0.0.0.9000 (github::maggieyng/mypkg_maggie@fa69535) (16ms)
+#> ✔ 1 pkg: upd 1, dld 1 (NA B) [4.7s]
 ```
 
 ## Example
